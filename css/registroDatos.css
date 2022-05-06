@@ -1,0 +1,33 @@
+body{
+    
+}
+
+.card-body{
+    background:#F7F9F9;
+    left:250px;
+    position:fixed;
+    width:350px;
+    top:15%;
+}
+
+.tabla-1{
+    width:420px;
+    position:fixed;
+    left:650px;
+    top:15%;
+}
+
+@media screen and (max-width: 400px) {
+    .card-body{
+        left:5px;
+        width:350px;
+        top:15%;
+    }
+
+    
+    .tabla-1{
+        width:350px;
+        left:5px;
+        top:40%;
+    }
+}

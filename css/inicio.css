@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/*  globales */
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+iframe{
+    width: 50%;
+    height: 60rem;
+}
